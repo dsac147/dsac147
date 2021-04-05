@@ -6,7 +6,8 @@
   <img src="https://github.com/dsac147/dsac147/blob/main/github2%402x.png" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-I am a Full-stack Web Developer who likes to design pixel perfect UI. :wink:
+I am a Full-stack Web Developer who likes to design pixel perfect UI. :wink:<br/>
+I'm the Co-founder and Chief Creative Officer at **[Sterling Media Labs](https://www.sterlingmedialabs.com/)**. :sunglasses:
  
  🔭 I’m planning for a **Myntra** clone to enhance my backend skills with typescript.
  
