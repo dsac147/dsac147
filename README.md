@@ -22,7 +22,7 @@ I'm the Co-founder and Chief Creative Officer at **[Sterling Media Labs](https:/
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dsac147&show_icons=true&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dsac147&count_private=true&show_icons=true&hide_border=true)
 
 ---
 
