@@ -27,7 +27,7 @@ I'm the Co-founder and Chief Creative Officer at **[Sterling Media Labs](https:/
 ---
 
 
-### You can find in me on the web 🌍
+### You can find me on the web 🌍
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
