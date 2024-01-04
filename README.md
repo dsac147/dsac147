@@ -11,7 +11,7 @@ I'm Divyanshu, a passionate Frontend Engineer. I like building beautiful, respon
 > such as React.js and Next.js.
 
 I am always reading about new and upcoming technologies. It keeps me up-to-date with the latest trends, helping me provide optimized solutions.<br>
-**In addition, I'm looking for new opportunities right now. If you're looking to hire, please reach out to me [here](mailto:divyanshusachan147@gmail.com).**
+**In addition, I'm looking for new opportunities right now. If you're looking to hire, and like my work, please reach out to me [here](mailto:divyanshusachan147@gmail.com).**
 <br>
 <br>
 🚀  **Tech Stack**<br>
