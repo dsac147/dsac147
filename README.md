@@ -11,7 +11,7 @@ I'm Divyanshu, a passionate Frontend Engineer. I like building beautiful, respon
 > such as React.js and Next.js.
 
 I am always reading about new and upcoming technologies. It keeps me up-to-date with the latest trends, helping me provide optimized solutions.<br>
-In addition, I'm looking for new opportunities right now. If you're looking to hire, please reach out to me [here](mailto:divyanshusachan147@gmail.com).
+**In addition, I'm looking for new opportunities right now. If you're looking to hire, please reach out to me [here](mailto:divyanshusachan147@gmail.com).**
 <br>
 <br>
 🚀  **Tech Stack**<br>
@@ -21,16 +21,10 @@ In addition, I'm looking for new opportunities right now. If you're looking to h
  - Tools/Technologies : *Redux, CSS Modules, Styled Components, Ant Design, React Testing Library, Prismic, Storybook, React-Query , Babel, Vite, Webpack, FullStory, Google Analytics, Yarn, NPM.*
 
 🎨  **Projects**
-<br>
-<br>
-Project 1: Galactic Gadgetron
-Dive into the cosmos with Galactic Gadgetron, a space-themed app that lets you customize your own interstellar gadgets. From anti-gravity coffee makers to warp-speed toasters, the possibilities are endless!
-<br>
-<br>
-Project 2: Quantum Quasar
-Unleash the power of quantum computing with Quantum Quasar. Solve complex problems, break cryptographic codes, and maybe even discover the meaning of life (in binary, of course).
-<br>
-<br>
+- [Portfolio](https://www.divyanshusachan.in/) - Personal Portfolio Website built with Next.js, Three.js, GSAP, and Prismic
+- [CarMania](https://divyanshu-car-mania.vercel.app/) - Modern Car Rental Application using Next JS 14, React, TypeScript, Tailwind CSS
+- [Roles Directory Widget – HackerRank](https://www.hackerrank.com/roles-directory/) - Developed a performant and portable User Interface widget using React.js, integrated into the HackerRank Website. The site has monthly 10k+ users, is fully responsive, and has a complex and scalable interactive bubble design used to showcase all supported job families, roles and skills. Data is served dynamically via APIs
+
 🌱  **Current Focus**
 <br>
 <br>
