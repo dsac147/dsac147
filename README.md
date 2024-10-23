@@ -3,7 +3,7 @@ Welcome to my GitHub universe!
 
 🌟  **About Me** <br>
 <br>
-I'm Divyanshu, a passionate Frontend Engineer. I like building beautiful, responsive, and user-friendly web applications that bring value to users. 
+I'm Divyanshu, a passionate Frontend Engineer, currently working at [Accessibility](https://www.browserstack.com/accessibility-testing) at [Browserstack](https://www.browserstack.com/home). I like building beautiful, accessible, and user-friendly web apps that brings delight to users. 
 
 > With 2+ years of experience in the industry, I have developed a strong
 > foundation in web development and expertise in many technologies,
@@ -11,7 +11,6 @@ I'm Divyanshu, a passionate Frontend Engineer. I like building beautiful, respon
 > such as React.js and Next.js.
 
 I am always reading about new and upcoming technologies. It keeps me up-to-date with the latest trends, helping me provide optimized solutions.<br>
-**In addition, I'm looking for new opportunities right now. If you're looking to hire, and like my work, please reach out to me [here](mailto:divyanshusachan147@gmail.com).**
 <br>
 <br>
 🚀  **Tech Stack**<br>
@@ -22,13 +21,12 @@ I am always reading about new and upcoming technologies. It keeps me up-to-date 
 
 🎨  **Projects**
 - [Portfolio](https://www.divyanshusachan.in/) - Personal Portfolio Website built with Next.js, Three.js, GSAP, and Prismic
-- [CarMania](https://divyanshu-car-mania.vercel.app/) - Modern Car Rental Application using Next JS 14, React, TypeScript, Tailwind CSS
 - [Roles Directory Widget – HackerRank](https://www.hackerrank.com/roles-directory/) - Developed a performant and portable User Interface widget using React.js, integrated into the HackerRank Website. The site has monthly 10k+ users, is fully responsive, and has a complex and scalable interactive bubble design used to showcase all supported job families, roles and skills. Data is served dynamically via APIs
 
 🌱  **Current Focus**
 <br>
 <br>
-I'm currently exploring the realms *Golang*. If you have any tips, resources, or cat gifs related to *Go*, feel free to share them with me!
+I'm currently exploring the realms of *Chrome Extensions*. If you have any tips, resources, or cat gifs related to it, feel free to share them with me!
 <br>
 <br>
 🤝  **Let's Connect**
