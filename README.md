@@ -3,7 +3,7 @@ Welcome to my GitHub universe!
 
 🌟  **About Me** <br>
 <br>
-I'm Divyanshu, a passionate Frontend Engineer, currently working at [Accessibility](https://www.browserstack.com/accessibility-testing) at [Browserstack](https://www.browserstack.com/home). I like building beautiful, accessible, and user-friendly web apps that brings delight to users. 
+I'm Divyanshu, a passionate Frontend Engineer, currently working at [Accessibility](https://www.browserstack.com/accessibility-testing) in [Browserstack](https://www.browserstack.com/home). I like building beautiful, accessible, and user-friendly web apps that brings delight to users. 
 
 > With 2+ years of experience in the industry, I have developed a strong
 > foundation in web development and expertise in many technologies,
